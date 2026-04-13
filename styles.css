@@ -1,4 +1,9 @@
 /*  your css code here. If applicable */
 .heading{
 	text-align:center;
+
+
+	.border{
+		border : 2px solid black;
+	}
 }
